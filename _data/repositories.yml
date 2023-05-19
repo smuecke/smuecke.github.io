@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - smuecke
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - smuecke/qubolite
+  - smuecke/bitvec
+  - smuecke/seleqt
+  - smuecke/eao
