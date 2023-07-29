@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://smuecke.github.io/sitemap.xml
+Sitemap: https://smuecke.de/sitemap.xml
