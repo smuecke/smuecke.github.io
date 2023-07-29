@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Scientist. Musician. Composer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research associate at the [Lamarr Institute](https://lamarr-institute.org/) for Artificial Intelligence and Machine Learning, located at TU Dortmund University.
+Currently, I am doing my PhD in quantum computing, where I mainly work on binary quadratic optimization problems, their efficient solvability using quantum annealers, and their applications for machine learning.
+I am also particularly interested in non-gradient-based optimization methods such as evolutionary algorithms;
+as part of my master's thesis, I implemented such a method on an FPGA for solving QUBO problems, which has since been patented.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my scientific activities, I am a passionate musician:
+For almost 20 years I have been singing in several choirs and vocal ensembles, currently in [Bach-Chor Hagen](https://www.bach-chor-hagen.de), the [Chamber Choir of TU Dortmund](https://kammerchor.tu-dortmund.de/), the [Bochum Provost Chamber Choir](https://www.propsteimusik-bochum.de/) and the soloist ensemble [Vokal Ruhr](https://www.facebook.com/people/Vokal-Ruhr/100064304944070/).
+My voice type is tenor.
+I also perform as a soloist. In addition, I occasionally compose my own music, mainly vocal music in a modern classical style.
+Recently, some of my pieces were [published](https://klangraum-kirche.de/news/rezension-nova-ex-antiquis-butz-verlag-3050-15-e/) in a collection of contemporary organ music.
+Some recordings of my compositions can be found on my YouTube channel.
