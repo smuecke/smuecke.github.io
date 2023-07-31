@@ -50,7 +50,7 @@
       "url": "https://tu-dortmund.de",
       "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "2016-10-01",
+      "startDate": "2019-04-01",
       "courses": []
     }
   ],
@@ -66,10 +66,33 @@
     { "language": "Korean", "fluency": "Basics" }
   ],
   "interests": [
-    { "name": "Music" },
-    { "name": "Composition" },
-    { "name": "Linguistics" },
-    { "name": "Jiu-Jitsu" }
+    {
+      "name": "Music 🎵",
+      "keywords": [
+        "Classical Singing",
+        "Piano",
+        "Recorder"
+      ]
+    },
+    { "name": "Composition 🎼",
+      "keywords": [
+        "Contemporary Vocal Music",
+        "Organ",
+        "Serial, Algorithmic and Probabilistic Composing"
+      ]
+    },
+    { "name": "Linguistics 🗣️",
+      "keywords": [
+        "Descriptive Linguistics",
+        "Etymology",
+        "Constructed Languages"
+      ]
+    },
+    { "name": "Jiu-Jitsu 🥋",
+      "keywords": [
+        "1st Dan since 2017"
+      ]
+    }
   ],
   "references": [],
   "projects": []
