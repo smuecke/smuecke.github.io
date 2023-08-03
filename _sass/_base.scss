@@ -211,7 +211,7 @@ blockquote {
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-text-color-light);
 
     &:hover {
       color: var(--global-hover-color);
@@ -305,11 +305,11 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-text-color-light);
         transition-property: all 0.2s ease-in-out;
       }
 
