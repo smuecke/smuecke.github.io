@@ -2,8 +2,8 @@
 layout: page
 permalink: /music/
 title: music
-nav: true
-nav_order: 4
+nav: false
+collection: other
 description: Impressions of my music.
 ---
 

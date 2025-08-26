@@ -1,0 +1,30 @@
+
+.poem {
+  font-family: 'Vollkorn', serif;
+  margin-left: 2rem;
+  margin-top: 4rem;
+  line-height: 1.6;
+}
+
+.poem h2 {
+  font-family: inherit;    // same as poem body
+  font-size: inherit;      // no larger than the body text
+  font-style: italic;
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+
+.poem .stanza {
+  margin-bottom: 1.5rem;
+}
+
+.poem .meta {
+  font-family: inherit;
+  font-size: 0.9em;        // slightly smaller
+  color: #666;             // gray text
+  font-style: normal;
+}
+
+.poem + .poem {
+  margin-top: 8rem;
+}
