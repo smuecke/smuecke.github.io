@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Today I received my doctoral certificate! 🎓 My dissertation is titled (https://www.shaker.de/de/site/content/shop/index.asp?lang=en&ID=8&ISBN=978-3-8191-0134-2)[Quantum-Classical Optimization in Machine Learning].
+Today I received my doctoral certificate! 🎓 My dissertation is titled <a href="https://www.shaker.de/de/site/content/shop/index.asp?lang=de&ID=8&ISBN=978-3-8191-0134-2">Quantum-Classical Optimization in Machine Learning</a>.
