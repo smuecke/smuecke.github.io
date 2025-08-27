@@ -7,8 +7,6 @@ collection: other
 description: Some of my poetry.
 ---
 
-<p>Here are a few of my poems (in German).</p>
-
 <div class="poem">
   <h2>wachsein</h2>
   <div class="stanza">
@@ -118,3 +116,5 @@ description: Some of my poetry.
     </p>
   </div>
 </div>
+
+<p>Please do not use any of my work without my permission – thank you!</p>
