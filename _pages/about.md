@@ -6,7 +6,7 @@ subtitle: Computer Scientist. Musician. Composer.
 
 profile:
   align: right
-  image: me.jpg
+  image: me_quadratisch.jpg
   image_circular: true # crops the image to make it circular
   address:
 
