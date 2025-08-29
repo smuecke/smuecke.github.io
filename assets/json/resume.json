@@ -63,19 +63,19 @@
   "publications": [],
   "skills": [],
   "languages": [
-    { "language": "German", "fluency": "Native speaker" },
+    { "language": "German",  "fluency": "Native speaker" },
     { "language": "English", "fluency": "Fluent" },
     { "language": "Swedish", "fluency": "Advanced" },
-    { "language": "Dutch", "fluency": "Basics" },
+    { "language": "Dutch",   "fluency": "Basics" },
     { "language": "Chinese", "fluency": "Basics" },
-    { "language": "Korean", "fluency": "Basics" },
+    { "language": "Korean",  "fluency": "Basics" },
     { "language": "Russian", "fluency": "Basics"}
   ],
   "interests": [
     {
       "name": "Music 🎵",
       "keywords": [
-        "Classical Singing",
+        "Singing (Tenor)",
         "Piano",
         "Recorder"
       ]
@@ -83,15 +83,15 @@
     { "name": "Composition 🎼",
       "keywords": [
         "Contemporary Vocal Music",
-        "Organ",
-        "Serial, Algorithmic and Probabilistic Composing"
+        "Organ & Keyboard"
       ]
     },
-    { "name": "Linguistics 🗣️",
+    { "name": "Language 🗣️",
       "keywords": [
         "Descriptive Linguistics",
         "Etymology",
-        "Constructed Languages"
+        "Constructed Languages",
+	"Poetry"
       ]
     },
     { "name": "Jiu-Jitsu 🥋",
