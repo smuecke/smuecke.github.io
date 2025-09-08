@@ -37,4 +37,14 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
+    - name: Deploy to smuecke.de
+      if: github.event_name != 'pull_request'
+      uses: burnett01/rsync-deployments@6.0.0
+      with:
+        switches: -avzr --delete
+        path: _site/
+        remote_path: /root/website
+        remote_host: 37.27.179.3
+        remote_user: root
+        remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
