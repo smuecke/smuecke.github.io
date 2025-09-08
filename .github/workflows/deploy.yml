@@ -37,6 +37,9 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
+    - name: Debug key format
+      run: |
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" | head -5
     - name: Deploy to smuecke.de
       if: github.event_name != 'pull_request'
       uses: burnett01/rsync-deployments@6.0.0
