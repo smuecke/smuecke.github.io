@@ -8,22 +8,34 @@ description: Some of my poetry.
 ---
 
 <div class="poem">
+  <div class="stanza">
+    <p>
+      am augenrand verbognes land<br>
+      erglüht in kühlem abendbrand<br>
+      verläuft euch auf dem sommersaum<br>
+      mit winden kalt beflossen:<br>
+      und himmelweit entglitt ein stern<br>
+      aus eurem stillen abschiedszelt<br>
+      und ließ mich wehend blicken auf<br>
+      die welt, in blau verschlossen.
+    </p>
+  </div>
+  <div class="meta">
+    Zandvoort, 16.08.2024
+  </div>
+</div>
+
+<div class="poem">
   <h2>wachsein</h2>
   <div class="stanza">
     <p>
-      regenschwarzer waldessaum<br>
-      ruß auf meinen augen<br>
-      fahles licht zerschellt<br>
-      flimmernde kieselsteine in der schwebe<br>
-      trüb und wieder klar
-    </p>
-  </div>
-  <div class="stanza">
-    <p>
-      trüb und wieder klar<br>
-      dünnes kühl zwischen<br>
-      himmel und<br>
-      mir
+      stadtnacht gemalt<br>
+      auf mattbraune leinwand<br>
+      bäume und wiesen schwarz verknöchert<br>
+      wie öl sickert<br>
+      glimmer zum himmel<br>
+      fern läuft ein radio<br>
+      in die entrückte stille aus.
     </p>
   </div>
 </div>
@@ -59,24 +71,6 @@ description: Some of my poetry.
   </div>
   <div class="meta">
     2015, published in <i>Ausgewählte Werke XVIII</i> (Realis, 2015)
-  </div>
-</div>
-
-<div class="poem">
-  <div class="stanza">
-    <p>
-      am augenrand verbognes land<br>
-      erglüht in kühlem abendbrand<br>
-      verläuft euch auf dem sommersaum<br>
-      mit winden kalt beflossen:<br>
-      und himmelweit entglitt ein stern<br>
-      aus eurem stillen abschiedszelt<br>
-      und ließ mich wehend blicken auf<br>
-      die welt, in blau verschlossen.
-    </p>
-  </div>
-  <div class="meta">
-    17.08.2024
   </div>
 </div>
 
