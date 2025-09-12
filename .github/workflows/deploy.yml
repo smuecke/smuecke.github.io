@@ -43,7 +43,7 @@ jobs:
       with:
         switches: -avzr --delete
         path: _site/
-        remote_path: /home/deploy/website
+        remote_path: /home/smuecke/docker/website
         remote_host: 37.27.179.3
         remote_user: deploy
         remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
