@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Sascha Mücke
+      value: Dr. Sascha Mücke
     - name: Date of Birth
       value: 23 May 1994
     - name: Languages
@@ -25,6 +25,18 @@
         - title: Thesis
           contents:
             - Pseudo-Boolean Function Optimization on FPGAs
+    - title: Ph. D. (Dr. rer. nat.)
+      institution: TU Dortmund University
+      year: 2025
+      description:
+        - Lamarr Institute for ML and AI
+        - Quantum Computing
+        - Data Science & Machine Learning
+        - Optimization
+        - title: Dissertation
+          contents:
+            - Quantum-Classical Optimization in Machine Learning (Shaker Verlag, 2025)
+
 
 - title: Experience
   type: time_table

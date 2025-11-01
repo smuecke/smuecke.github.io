@@ -5,9 +5,9 @@ title: Impressum
 nav: false
 ---
 
-Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV):
+Verantwortlich für den Inhalt (gem. § 18 Abs. 2 MStV):
 
-    Sascha Mücke
+    Dr. Sascha Mücke
     Hochstr. 26
     44149 Dortmund
 
