@@ -16,11 +16,11 @@
   },
   "work": [
     {
-      "name": "LAMARR Institute for Machine Learning and AI",
+      "name": "Lamarr Institute for Machine Learning and AI",
       "position": "Research Associate",
       "url": "https://lamarr-institute.org",
       "startDate": "2019-04-01",
-      "summary": "Research focusing on Quantum Computing and Optimization"
+      "summary": "Research focusing on Quantum Computing, Optimization and Machine Learning"
     }
   ],
   "volunteer": [],
@@ -49,26 +49,31 @@
       "institution": "TU Dortmund University",
       "url": "https://tu-dortmund.de",
       "area": "Computer Science",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2019-04-01",
-      "endDate": "2025-05-13",
+      "endDate": "2026-03-31",
       "courses": [
+	"Machine Learning",
         "Quantum Computing",
-	"Quantum Annealing",
 	"Optimization"
       ]
     }
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    { "name": "Programming", "level": "Expert", "keywords": ["Python", "Java/Xtend", "C", "Haskell"] }
+    { "name": "Machine Learning", "level": "Expert", "keywords": ["Pytorch", "Scikit-Learn", "Deep Neural Networks", ""] }
+  ],
   "languages": [
     { "language": "German",  "fluency": "Native speaker" },
     { "language": "English", "fluency": "Fluent" },
     { "language": "Swedish", "fluency": "Advanced" },
-    { "language": "Dutch",   "fluency": "Basics" },
-    { "language": "Chinese", "fluency": "Basics" },
+    { "language": "Chinese", "fluency": "B1" },
+    { "language": "Spanish", "fluency": "Basics" },
+    { "language": "French",  "fluency": "Basics" },
     { "language": "Korean",  "fluency": "Basics" },
+    { "language": "Dutch",   "fluency": "Basics" },
     { "language": "Russian", "fluency": "Basics"}
   ],
   "interests": [
@@ -90,7 +95,6 @@
       "keywords": [
         "Descriptive Linguistics",
         "Etymology",
-        "Constructed Languages",
 	"Poetry"
       ]
     },
