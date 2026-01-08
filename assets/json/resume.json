@@ -62,7 +62,7 @@
   "certificates": [],
   "publications": [],
   "skills": [
-    { "name": "Programming", "level": "Expert", "keywords": ["Python", "Java/Xtend", "C", "Haskell"] }
+    { "name": "Programming", "level": "Expert", "keywords": ["Python", "Java/Xtend", "C", "Haskell"] },
     { "name": "Machine Learning", "level": "Expert", "keywords": ["Pytorch", "Scikit-Learn", "Deep Neural Networks", ""] }
   ],
   "languages": [
