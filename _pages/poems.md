@@ -8,6 +8,21 @@ description: Some of my poetry.
 ---
 
 <div class="poem">
+  <h2>wachsein</h2>
+  <div class="stanza">
+    <p>
+      stadtnacht gemalt<br>
+      auf mattbraune leinwand<br>
+      bäume und wiesen schwarz verknöchert<br>
+      wie öl sickert<br>
+      glimmer zum himmel<br>
+      fern läuft ein radio<br>
+      in die entrückte stille aus.
+    </p>
+  </div>
+</div>
+
+<div class="poem">
   <div class="stanza">
     <p>
       am augenrand verbognes land<br>
@@ -22,21 +37,6 @@ description: Some of my poetry.
   </div>
   <div class="meta">
     Zandvoort, 16.08.2024
-  </div>
-</div>
-
-<div class="poem">
-  <h2>wachsein</h2>
-  <div class="stanza">
-    <p>
-      stadtnacht gemalt<br>
-      auf mattbraune leinwand<br>
-      bäume und wiesen schwarz verknöchert<br>
-      wie öl sickert<br>
-      glimmer zum himmel<br>
-      fern läuft ein radio<br>
-      in die entrückte stille aus.
-    </p>
   </div>
 </div>
 
